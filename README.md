@@ -14,3 +14,8 @@
 ### React
 
 * [深入理解 React 高阶组件](https://www.jianshu.com/p/0aae7d4d9bc1)
+
+## 调试优化
+
+### Chrome DevTools
+* [全新Chrome Devtools Performance使用指南](https://segmentfault.com/a/1190000011516068)
