@@ -2,6 +2,7 @@
 
 > 肩膀
 * [前端技术架构图谱](https://github.com/f2e-awesome/knowledge)
+* [web前端周刊](https://github.com/caolvchong/fe-weekly/issues)
 
 ## 标准
 
