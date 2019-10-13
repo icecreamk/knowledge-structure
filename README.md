@@ -20,3 +20,8 @@
 
 ### Chrome DevTools
 * [全新Chrome Devtools Performance使用指南](https://segmentfault.com/a/1190000011516068)
+
+## 设计模式
+
+### UML
+* [UML类图和关系](https://segmentfault.com/a/1190000012270831)
