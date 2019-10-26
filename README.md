@@ -28,3 +28,6 @@
 ### UML
 * [UML类图和关系](https://segmentfault.com/a/1190000012270831)
 * [UML时序图(Sequence Diagram)学习笔记](https://blog.csdn.net/fly_zxy/article/details/80911942)
+
+## 总结
+* [web前端面试总结](https://juejin.im/post/5dafb263f265da5b9b80244d)
